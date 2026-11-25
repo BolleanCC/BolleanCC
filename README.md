@@ -10,7 +10,7 @@ I'm **songtao**, a developer who loves building clean and performant web applica
 ## 📊 Skills & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,prisma,html,css,tailwind,git,github,python,java,c#,anthropic" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,prisma,html,css,tailwind,git,github,python,java,c#,anthropic,postgrel" />
 </p>
 
 ---
